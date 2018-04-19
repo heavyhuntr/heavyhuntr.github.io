@@ -4,16 +4,17 @@ line-height:150%;
 margin:90px 75px;
 padding:20px;
 text-align:left;
-background:ePortfolio/Images/background.jpg;
+background:url(../Images/background.jpg);
+color:#666666;
 }
 h1 {
 margin:20px 100px;
-color:#FFFFFF;
+color:#666666;
 text-align:center;
 }
 h2 {
 margin:0px 0px;
-color:#000000;
+color:#666666;
 text-align:center;
 }
 h3 {
