@@ -51,6 +51,7 @@ width:120px;
 text-align:center;
 padding:0px;
 text-decoration:none;
+border:0;
 }
 a:hover {
     color:#FF0000;
