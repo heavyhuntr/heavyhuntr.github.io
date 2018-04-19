@@ -4,16 +4,16 @@ line-height:150%;
 margin:90px 75px;
 padding:20px;
 text-align:left;
-background-color:#349859;
+background:ePortfolio/Images/background.jpg;
 }
 h1 {
 margin:20px 100px;
-color:#FF0000;
+color:#FFFFFF;
 text-align:center;
 }
 h2 {
 margin:0px 0px;
-color:#FF0000;
+color:#000000;
 text-align:center;
 }
 h3 {
@@ -45,7 +45,7 @@ display: block;
 }
 a:link, a:visited {
 font-weight:normal;
-color:#7094FF;
+color:#999999;/*7094FF*/
 width:120px;
 text-align:center;
 padding:0px;
@@ -53,7 +53,7 @@ text-decoration:none;
 border:0;
 }
 a:hover {
-    color:#FF0000;
+    color:#FFFFFF;
 }
 a:active {
     color:#FFFFFF;
