@@ -40,7 +40,10 @@ text-align:left;
 }
 img {
 padding:5px;
+border:0px;
 background-color:#000000;
+display: block;
+margin: 0 auto;
 }
 a:link, a:visited {
 font-weight:normal;
@@ -68,7 +71,7 @@ top:0px;
 left:0px;
 }
 ul {
-padding: 0;
+padding:0;
 }
 li {
 display:inline;
