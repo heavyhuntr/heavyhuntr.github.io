@@ -8,4 +8,7 @@ main {
    margin-top: 50px;
 }
 
-main p { margin-top: 50px; }
+main p {
+   margin-top: 50px;
+   text-align: center;
+}
