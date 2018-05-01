@@ -15,7 +15,7 @@ text-align:center;
 }
 h2 {
 margin:0px 0px;
-color:#FFD700;/*#AAAAAA*/
+color:#D4AF00;/*#AAAAAA*/
 text-align:center;
 }
 h3 {
@@ -42,8 +42,7 @@ img {
 padding:5px;
 border:0px;
 background-color:#000000;
-display: block;
-margin: 0 auto;
+margin: auto;
 }
 a:link, a:visited {
 font-weight:normal;
@@ -75,8 +74,4 @@ padding:0;
 }
 li {
 display:inline;
-}
-.bg{
-background:url(../Images/background.jpg);
-height: 100%
 }
