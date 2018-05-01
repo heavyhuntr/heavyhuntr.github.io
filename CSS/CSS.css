@@ -5,8 +5,8 @@ margin:90px 75px;
 padding:20px;
 text-align:left;
 background:url(../Images/background.jpg) 100%;
-background-color:#000000;
-color:#777777;
+background-color:#000000;/*#000000*/
+color:#DAA520;/*777777*/
 }
 h1 {
 margin:20px 100px;
@@ -15,7 +15,7 @@ text-align:center;
 }
 h2 {
 margin:0px 0px;
-color:#AAAAAA;
+color:#FFD700;/*#AAAAAA*/
 text-align:center;
 }
 h3 {
@@ -47,7 +47,7 @@ margin: 0 auto;
 }
 a:link, a:visited {
 font-weight:normal;
-color:#999999;/*7094FF*/
+color:#C0C0C0;/*#7094FF,#999999*/
 width:120px;
 text-align:center;
 padding:3px;
