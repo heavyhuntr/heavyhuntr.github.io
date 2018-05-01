@@ -1,4 +1,11 @@
 @import url(CSS.css);
 img{
-	display:block;
+   display:block;
 }
+
+main {
+   text-align: center;
+   margin-top: 50px;
+}
+
+main p { margin-top: 50px; }

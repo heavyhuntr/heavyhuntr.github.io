@@ -11,3 +11,5 @@ img{
 .grid-container > div {
   text-align: left;
 }
+
+.info { text-align: center; }

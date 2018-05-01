@@ -6,7 +6,7 @@ padding:20px;
 text-align:left;
 background:url(../Images/background.jpg) 100%;
 background-color:#000000;/*#000000*/
-color:#DAA520;/*777777*/
+color:#FFFFFF;/*777777*/
 }
 h1 {
 margin:20px 100px;
@@ -14,7 +14,7 @@ color:#FFFFFF;
 text-align:center;
 }
 h2 {
-margin:0px 0px;
+margin:0px 0px 25px 0px;
 color:#D4AF00;/*#AAAAAA*/
 text-align:center;
 }
@@ -36,7 +36,8 @@ color:;
 }
 p {
 margin:0px 0px;
-text-align:center;
+padding-bottom: 50px;
+text-align:left;
 }
 img {
 padding:5px;
@@ -46,7 +47,8 @@ margin: auto;
 }
 a:link, a:visited {
 font-weight:normal;
-color:#C0C0C0;/*#7094FF,#999999*/
+color:#DAA520;/*777777*/
+;/*#7094FF,#999999*/
 width:120px;
 text-align:center;
 padding:3px;
