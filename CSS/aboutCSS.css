@@ -1,0 +1,13 @@
+@import url(CSS.css);
+img{
+    max-width: 200px;
+    height: auto;
+}
+.grid-container {
+	display: grid;
+	grid-template-columns: 215px auto;
+	grid-gap: 50px;
+}
+.grid-container > div {
+  text-align: left;
+}
